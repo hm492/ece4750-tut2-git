@@ -8,4 +8,4 @@ plum
 kiwi
 date
 melon
-bluberry
+blueberry
